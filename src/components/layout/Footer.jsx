@@ -1,7 +1,7 @@
 import { Mail, Phone } from "lucide-react"
 import { FaInstagram, FaLinkedinIn, FaTwitter, FaYoutube } from "react-icons/fa"
 
-import logo from "@/assets/images/logo.png"
+import logo from "@/assets/images/logo.webp"
 import { siteConfig } from "@/constants/site"
 
 const footerLinks = [

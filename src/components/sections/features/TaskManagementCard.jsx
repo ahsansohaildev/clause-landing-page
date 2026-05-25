@@ -1,7 +1,7 @@
 import { Plus } from "lucide-react"
 
-import avater1 from "@/assets/images/avater-1.png"
-import avater3 from "@/assets/images/avater-3.png"
+import avater1 from "@/assets/images/avater-1.webp"
+import avater3 from "@/assets/images/avater-3.webp"
 
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { Button } from "@/components/ui/button"

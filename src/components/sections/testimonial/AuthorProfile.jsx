@@ -1,5 +1,5 @@
-import avater1 from "@/assets/images/avater-1.png"
-import mailchimpLogo from "@/assets/icons/mailchip-logo-fullyellow.png"
+import avater1 from "@/assets/images/avater-1.webp"
+import mailchimpLogo from "@/assets/icons/mailchip-logo-fullyellow.webp"
 
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 

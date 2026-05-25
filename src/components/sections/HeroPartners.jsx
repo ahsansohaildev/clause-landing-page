@@ -1,10 +1,10 @@
 import MarqueePackage from "react-fast-marquee"
 
-import hubspotLogo from "@/assets/icons/hubspot-logo.png"
-import dropboxLogo from "@/assets/icons/dropbox-logo.png"
-import squareLogo from "@/assets/icons/square-logo.png"
-import intercomLogo from "@/assets/icons/intercom-logo.png"
-import grammarlyLogo from "@/assets/icons/grammerly-logo.png"
+import hubspotLogo from "@/assets/icons/hubspot-logo.webp"
+import dropboxLogo from "@/assets/icons/dropbox-logo.webp"
+import squareLogo from "@/assets/icons/square-logo.webp"
+import intercomLogo from "@/assets/icons/intercom-logo.webp"
+import grammarlyLogo from "@/assets/icons/grammerly-logo.webp"
 
 const Marquee =
   MarqueePackage?.default || MarqueePackage?.Marquee || MarqueePackage

@@ -1,7 +1,7 @@
 import { Menu } from "lucide-react"
 import { Link } from "react-router"
 
-import logo from "@/assets/images/logo.png"
+import logo from "@/assets/images/logo.webp"
 import { Button } from "@/components/ui/button"
 import {
   Sheet,

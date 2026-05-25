@@ -1,7 +1,7 @@
-import avater1 from "@/assets/images/avater-1.png"
-import avater2 from "@/assets/images/avater-2.png"
-import avater3 from "@/assets/images/avater-3.png"
-import avater4 from "@/assets/images/avater-4.png"
+import avater1 from "@/assets/images/avater-1.webp"
+import avater2 from "@/assets/images/avater-2.webp"
+import avater3 from "@/assets/images/avater-3.webp"
+import avater4 from "@/assets/images/avater-4.webp"
 
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 
